@@ -1,0 +1,2 @@
+jenkins pipeline cd: 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
+jenkins dockerdeploy: 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
